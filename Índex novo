@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#140b16">
+  <title>Grupo VIP 🌸</title>
+
+  <meta http-equiv="refresh"
+        content="5;url=https://t.me/+hBuN8VR6tCJiZmZh">
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+      color: white;
+      text-align: center;
+      background: radial-gradient(circle at top, #70204f, #140b16 70%);
+    }
+
+    .card {
+      width: 100%;
+      max-width: 400px;
+      padding: 38px 25px;
+      border: 1px solid #ff69b4;
+      border-radius: 25px;
+      background: rgba(30, 15, 32, 0.96);
+      box-shadow: 0 0 35px rgba(255, 50, 160, 0.25);
+    }
+
+    .emoji {
+      font-size: 55px;
+      margin-bottom: 15px;
+    }
+
+    h1 {
+      font-size: 30px;
+      margin: 10px 0;
+    }
+
+    p {
+      color: #e8dce8;
+      font-size: 15px;
+      line-height: 1.6;
+      margin-bottom: 25px;
+    }
+
+    .button {
+      display: block;
+      padding: 17px 12px;
+      border-radius: 14px;
+      color: white;
+      font-weight: bold;
+      font-size: 15px;
+      text-decoration: none;
+      background: linear-gradient(100deg, #ff2788, #a32cff);
+      box-shadow: 0 6px 22px rgba(255, 39, 136, 0.3);
+    }
+
+    .button:hover {
+      filter: brightness(1.12);
+    }
+
+    .small {
+      margin-top: 20px;
+      font-size: 12px;
+      color: #c4b3c8;
+    }
+  </style>
+</head>
+
+<body>
+  <main class="card">
+    <div class="emoji">🌸🎁💗</div>
+
+    <h1>Grupo VIP</h1>
+
+    <p>
+      Seu acesso está quase pronto! ✨<br>
+      Clique abaixo para entrar no grupo
+      e conferir os conteúdos disponíveis.
+    </p>
+
+    <a
+      class="button"
+      href="https://t.me/+hBuN8VR6tCJiZmZh">
+      ENTRAR NO GRUPO VIP 👀🎁🌸
+    </a>
+
+    <div class="small">
+      Você será direcionado para o Telegram.
+    </div>
+  </main>
+
+  <script>
+    setTimeout(function() {
+      window.location.href =
+        "https://t.me/+hBuN8VR6tCJiZmZh";
+    }, 5000);
+  </script>
+</body>
+</html>
